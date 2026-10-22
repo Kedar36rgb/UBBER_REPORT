@@ -23,30 +23,30 @@ The final output is a **6-page interactive Power BI dashboard** with a custom na
 
 ## 🖼️ Dashboard Preview
 
-*(Note to Kedar: Save your 6 screenshots as `page1.png`, `page2.png`, etc., and put them in an `images` folder in your repo. Replace the links below!)*
+*(Kedar: Upload your images to GitHub, copy their links, and paste them where it says `PASTE_YOUR_LINK_HERE?raw=true`)*
 
 **1. Home / Navigation Page**
-![Home Page](link_to_your_first_screenshot)
+![Home Page](PASTE_YOUR_LINK_HERE?raw=true)
 
 **2. Overall Performance (Executive Summary)**
 *Tracks total bookings (150K) over time, booking status breakdown, and monthly trends.*
-![Overall Page](link_to_your_second_screenshot)
+![Overall Page](PASTE_YOUR_LINK_HERE?raw=true)
 
 **3. Cancellation Analysis**
 *Deep dive into customer and driver cancellation reasons, with monthly breakdowns.*
-![Cancellation Page](link_to_your_third_screenshot)
+![Cancellation Page](PASTE_YOUR_LINK_HERE?raw=true)
 
 **4. Rating Analysis**
 *Compares average customer and driver ratings across different vehicle types.*
-![Rating Page](link_to_your_fourth_screenshot)
+![Rating Page](PASTE_YOUR_LINK_HERE?raw=true)
 
 **5. Revenue & Payments**
 *Analyzes average booking value by payment method and cancellation counts by payment type.*
-![Revenue Page](link_to_your_fifth_screenshot)
+![Revenue Page](PASTE_YOUR_LINK_HERE?raw=true)
 
 **6. Vehicle Type Breakdown**
 *Examines average booking value and cancellation volumes per vehicle type (Auto, Go Mini, Bike, etc.).*
-![Vehicle Page](link_to_your_sixth_screenshot)
+![Vehicle Page](PASTE_YOUR_LINK_HERE?raw=true)
 
 ---
 
@@ -74,4 +74,4 @@ UBBER_REPORT/
 ├── README.md
 ├── UBERPROJECTCLASS.pbix         ← Main Power BI file
 ├── ncr_ride_bookings.csv         ← Raw dataset
-└── images/                       ← Dashboard screenshots
+└── page1.png, page2.png, etc.    ← Dashboard screenshots
